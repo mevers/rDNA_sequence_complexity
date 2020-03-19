@@ -1,5 +1,7 @@
 # rDNA_sequence_complexity
 
+This is the Markdown output of the RMarkdown document `main.Rmd`. Since Markdown doesn't render LaTeX, formulas will not be displayed correctly. 
+
 ## R packages and data
 
 We load necessary R packages.
